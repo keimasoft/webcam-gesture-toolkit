@@ -1,0 +1,14 @@
+Eigen source availability
+
+This product's native hand-tracking runtime includes code compiled from Eigen.
+The corresponding local Eigen core/unsupported header sources and their original
+license notices are supplied in sources/eigen-local-dcbaf2d608f3-headers.zip.
+
+Eigen's MPL-covered source is available under the Mozilla Public License 2.0;
+see COPYING.MPL2 in the source archive. Additional original per-file licenses
+and notices are preserved in the archive and continue to apply.
+The original integration code is governed by its own applicable terms.
+
+Declared upstream revision: dcbaf2d608f306450f1e74949eb87e9a22a7ef4b
+Upstream: https://gitlab.com/libeigen/eigen
+License: https://www.mozilla.org/en-US/MPL/2.0/
